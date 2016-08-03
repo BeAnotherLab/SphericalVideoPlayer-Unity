@@ -11,10 +11,10 @@ Tested on Windows 8.1 with Oculus DK2
 ##Unity
 1. Open the Unity project
 2. To load videos, do the following:
-  2.1 On the project tab open the scene in which you want to copy the video: video1 for the first video, video2 for the second and so on. 
-  2.2 From your project tab drag and drop your .ogv video into Assets/Materials/Videos
-  2.3 Drag the video from /Assets/Materials/Videos on your Project tab into the PlayerSphere object in your Hierarchy tab.
-  2.4 Repeat the process for every video that you want to add.
+  - On the project tab open the scene in which you want to copy the video: video1 for the first video, video2 for the second and so on. 
+  - From your project tab drag and drop your .ogv video into Assets/Materials/Videos
+  - Drag the video from /Assets/Materials/Videos on your Project tab into the PlayerSphere object in your Hierarchy tab.
+  - Repeat the process for every video that you want to add.
 3. Open the Main scene.
 4. Press play to go to game mode.
   4.1 load a video
