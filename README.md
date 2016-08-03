@@ -8,7 +8,7 @@ Tested on Windows 8.1 with Oculus DK2
 2. Run the Oculus software.
 3. On the Oculus display select the "Press the Xbox A-button or remote select button, or hover on this text for two seconds to aknowledge."
 
-#Unity
+##Unity
 1. Open the Unity project
 2. To load videos, do the following:
   2.1 On the project tab open the scene in which you want to copy the video: video1 for the first video, video2 for the second and so on. 
